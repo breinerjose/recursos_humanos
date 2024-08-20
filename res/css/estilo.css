@@ -1,0 +1,146 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#fbuscar form{
+margin-bottom : 0px;
+margin-top : 0px;
+} 
+
+#campotexto{
+float: left;
+} 
+
+#campotexto input{
+width:100px;
+} 
+
+#botonbuscar {
+padding-top : 3px;
+padding-left: 106px;
+}
+
+#botonbuscar input{
+border : 0px none;
+} 
+
+.radio{
+clear:both;
+} 
+
+#otras ul{
+margin : 5px 10px 0px 0px;
+padding: 0px 0px 0px 4px;
+list-style: none;
+} 
+
+#otras li{
+	padding-left: 14px;
+	background: transparent url("../Imagenes/bullet.gif") 0 2px no-repeat;
+	margin-bottom: 10px;
+	font-weight: bold;
+} 
+
+#pie{
+	clear : both;
+	color : #cccccc;
+	text-align : center;
+	margin : 10px 10px 0px 10px;
+	padding-bottom:10px;
+} 
+
+#contenedor{
+text-align: left;
+border: 2px solid #cccccc;
+width: 700px;
+margin: auto;
+background-color : #ffffff;
+} 
+
+.ds_box {
+	background-color: #FFF;
+	border: 1px solid #000;
+	position: absolute;
+	z-index: 32767;
+}
+
+.ds_tbl {
+	background-color: #FFF;
+}
+
+.ds_head {
+	background-color: #333;
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+.ds_subhead {
+	background-color: #CCC;
+	color: #000;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 32px;
+}
+
+.ds_cell {
+	background-color: #EEE;
+	color: #000;
+	font-size: 13px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 5px;
+	cursor: pointer;
+}
+
+.ds_cell:hover {
+	background-color: #F3F3F3;
+} /* This hover code won't work for IE */
+#tablas {
+	color: #FFF;
+}
+.imputbox {
+	font-size: 12px;
+	color: #000000;
+	background-color: #D2E9FF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 1pix #000000 solid;
+	border-color: #000000 solid;
+	font-weight: normal;
+	font-style: normal;
+	list-style-type: disc;
+	background-position: center center;
+	float: none;
+}
+.imputbox2 {
+	font-size: 12px;
+	color: #000000;
+	background-color: #E6D662;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 1pix #000000 solid;
+	border-color: #000000 solid;
+	font-weight: normal;
+	font-style: normal;
+	list-style-type: disc;
+	background-position: center center;
+	float: none;
+}
+.botones1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+	background-color: #406800;
+	border-color: #666666;
+	border-top-width: 1pix;
+	border-right-width: 1pix;
+	border-bottom-width: 1pix;
+	border-left-width: 1pix;
+	vertical-align: middle;
+	text-align: center;
+}
+

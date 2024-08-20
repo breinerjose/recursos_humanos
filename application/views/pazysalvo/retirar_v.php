@@ -1,0 +1,1 @@
+﻿<a href="http://192.168.150.241:82/login_c/retirar" target="_blank">Clic Aqui Para Retirar El Empleado</a>

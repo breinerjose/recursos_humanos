@@ -1,0 +1,1 @@
+<a href="http://192.168.150.241:82/login_c/carta_retiro" target="_blank">Generar Carta</a>

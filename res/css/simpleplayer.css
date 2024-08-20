@@ -1,0 +1,30 @@
+table.display td .simple-player-container {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+table.display td .simple-player-container > div > ul {
+    margin: 0;
+    padding-left: 0;
+}
+table.display td .simpleplayer-play-control {
+    background-image: url(../images/play.png);
+    display: block;
+    width: 16px;
+    height: 16px;
+    bottom: -5px;
+    position: relative;
+}
+table.display td .simpleplayer-play-control:hover {
+    background-image: url(../images/playing.png);
+}
+table.display td .simpleplayer-stop-control {
+    background-image: url(../images/stop.png);
+    display: block;
+    width: 16px;
+    height: 16px;
+    bottom: -5px;
+    position: relative;
+}
+table.display td .simpleplayer-stop-control:hover {
+    background-image:url(../images/stoped.png);
+}
